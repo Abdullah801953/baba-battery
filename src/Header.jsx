@@ -2,10 +2,10 @@ import React from "react";
 import jquery from "jquery";
 import { Link } from "react-router-dom";
 import { useEffect } from "react";
-import "./css/plugins.css";
-import "./css/styles.css";
-import "./quform/css/base.css";
-import "./search/search.css";
+// import "./css/plugins.css";
+// import "./css/styles.css";
+// import "./quform/css/base.css";
+// import "./search/search.css";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
@@ -77,11 +77,7 @@ function Header() {
                   <nav className="navbar navbar-expand-lg navbar-light p-0">
                     <div className="navbar-header navbar-header-custom">
                       <Link to={"/"} className="navbar-brand">
-                        <img
-                          id="logo"
-                          src="/src/img/logos/logo-inner.png"
-                          alt="logo"
-                        />
+                        <img id="logo" src="src/img/logos/logo.png" alt="logo" />
                       </Link>
                     </div>
 
@@ -101,7 +97,8 @@ function Header() {
                       </li>
                       <li className="has-sub-service">
                         <span className="submenu-button"></span>
-                        <a href="#service">Service</a>
+                        {/* <a href="#service">Products</a> */}
+                        <Link to={"products"}>Products</Link>
                         <ul className="sub-menu">
                           <li>
                             <a href="solar-solutions.html">Solar Solutions</a>

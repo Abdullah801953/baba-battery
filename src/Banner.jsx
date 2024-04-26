@@ -6,6 +6,8 @@ import "animate.css/animate.min.css";
 import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
+import '../public/css/styles.css'
+import '../public/css/plugins.css'
 function Banner() {
   useEffect(() => {
     // Carousel change event ko handle karne ke liye function

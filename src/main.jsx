@@ -8,6 +8,8 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import Products from './Products.jsx'
+import ProductsChoose from './ProductsChoose.jsx'
 const router = createBrowserRouter([
   {
     path: "/",
@@ -20,6 +22,14 @@ const router = createBrowserRouter([
   {
     path: "contact",
     element: <ContactUs />,
+  },
+  {
+    path: "products",
+    element: <Products />,
+  },
+  {
+    path: "product-choose",
+    element: <ProductsChoose />,
   },
 ]);
 ReactDOM.createRoot(document.getElementById('root')).render(

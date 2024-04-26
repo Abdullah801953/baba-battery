@@ -43324,3 +43324,494 @@ a:active {
     top: 0;
     z-index: 999;
 }
+/* products */
+.section-header {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.section-header h2 {
+  color: #374048;
+}
+.section-header h2 {
+  text-transform: uppercase;
+  font: 600 48px / 29px "Poppins", sans-serif;
+  padding-top: 5px;
+  margin: 0 0 25px;
+}
+.section-header p {
+  color: #969da3;
+}
+.section-header p {
+  max-width: 710px;
+  margin: 0 auto 20px;
+  font: 300 20px / 32px "Poppins", sans-serif;
+}
+.section-header:after {
+  background: #eee;
+}
+.bar{
+  width: 82px;
+  height: 6px;
+  margin: 0 auto;
+  background: #eee;
+}
+.section-header {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.collections .item {
+  padding: 15px;
+  text-align: center;
+}
+.collections .item .featured-img {
+  margin-bottom: 30px;
+}
+.collections .item .featured-img {
+  margin-bottom: 30px;
+}
+.collections .item .title {
+  color: #0084ff;
+}
+.collections .item .title {
+  font: 500 16px / 1 "Poppins", sans-serif;
+  margin: 0;
+}
+.collections .item .category {
+  color: #b4bcc3;
+}
+.collections .item .category {
+  margin: 5px 0 0;
+  font: 300 13px / 1 "Poppins", sans-serif;
+}
+.collections .item .price {
+  color: #f62;
+}
+.collections .item .price {
+  font: 600 19px / 1 "Poppins", sans-serif;
+  margin: 14px 0 20px;
+}
+.btn {
+  border-radius: 30px;
+  font: 300 12px / 26px "Poppins", sans-serif;
+  padding: 2px 33px 0;
+  color: #b4bcc3;
+  border-color: #e1e4e7;
+}
+/* products choose */
+.product-box {
+  background: #fff;
+}
+.product-box {
+  max-width: 945px;
+  margin: 0 auto;
+  box-shadow: 0 0 62px rgba(0, 0, 0, .3);
+  position: relative;
+}
+.product-box .mfp-close {
+  color: #8a9095;
+}
+.product-box .mfp-close {
+  position: absolute;
+  font: 300 30px / 1 "Poppins", sans-serif;
+  text-transform: uppercase;
+  opacity: .4;
+  transition: all 300ms linear 0s;
+}
+.product-img-gallery {
+  background: #f8f8f8;
+}
+.product-img-gallery {
+  float: left;
+  width: 457px;
+}
+#product-imgs {
+  padding: 65px 0 68px;
+  height: 100%;
+}
+.carousel {
+  position: relative;
+}
+#product-imgs .carousel-indicators {
+  bottom: 29px;
+  display: table;
+  margin-left: 0;
+  width: auto;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  margin: 0;
+}
+.carousel-indicators {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  margin-left: -30%;
+  padding-left: 0;
+  list-style: none;
+  text-align: center;
+}
+#product-imgs .carousel-indicators li {
+  background: #dadada;
+}
+#product-imgs .carousel-indicators li {
+    float: left;
+    width: 9px;
+    height: 9px;
+    margin: 0;
+}
+.carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  text-indent: -999px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #000 \9;
+  background-color: rgba(0, 0, 0, 0);
+}
+li {
+  font: 300 14px / 26px "Poppins", sans-serif;
+  color: #82898f;
+}
+.carousel-inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+#product-imgs .item {
+  text-align: center;
+}
+#product-imgs .item img {
+  display: inline-block;
+  width: auto;
+  max-width: 95%;
+}
+#product-imgs .item {
+  text-align: center;
+}
+.product-desc {
+  float: left;
+  width: calc(100% - 457px);
+  padding: 48px 37px 40px 35px;
+  overflow-x: hidden;
+  overflow-y: visible;
+}
+.product-info {
+  transition: all .8s ease-in-out;
+  opacity: 1;
+}
+.product-desc .name {
+  color: #848e96;
+}
+.product-desc .name {
+  text-transform: uppercase;
+  font: 400 20px / 1 "Poppins", sans-serif;
+  margin: 0 0 8px;
+}
+.product-desc .edition {
+  color: #374048;
+}
+.product-desc .edition {
+  text-transform: uppercase;
+  font: 700 33px / 1 "Poppins", sans-serif;
+  margin: 0 0 10px;
+}
+.product-desc .model {
+  color: #a8afb5;
+}
+.product-desc .model {
+  text-transform: uppercase;
+  font: 300 16px / 1 "Poppins", sans-serif;
+  margin: 0 0 20px;
+}
+.product-desc .price {
+  color: #0084ff;
+}
+.product-desc .price {
+  font: 600 33px / 34px "Poppins", sans-serif;
+  margin: 0 0 25px;
+  text-transform: uppercase;
+}
+.product-desc .price del {
+  color: #808890;
+}
+.product-desc .price del {
+  font-size: 26px;
+  font-weight: 300;
+  margin-right: 14px;
+}
+.product-desc .price .label {
+  background: #ff840f;
+}
+.product-desc .price .label {
+  background: #ff840f;
+}
+.label {
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 75%;
+  font-weight: bold;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+}
+.product-desc .price {
+  color: #0084ff;
+}
+.product-desc .description {
+  padding: 32px 0;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}.product-desc .description p {
+  color: #979a9d;
+}
+.product-desc .description p {
+  font: 300 16px / 28px "Poppins", sans-serif;
+  margin-bottom: 0;
+}
+.product-desc .choose-form .choose-options {
+  border-color: #eee;
+}
+.product-desc .choose-form .choose-options {
+  padding: 34px 0 36px;
+  border-bottom: 1px solid;
+}
+.product-desc .choose-form .option {
+  float: left;
+}
+.product-desc .choose-form .option .form-label {
+  color: #6c6e71;
+}
+.product-desc .choose-form .option .form-label {
+  text-transform: uppercase;
+  margin: 0 0 12px;
+  font: 500 16px / 1 "Poppins", sans-serif;
+}
+.product-desc .choose-form .option .colors {
+  padding-top: 9px;
+}
+.product-desc .choose-form .option+.option {
+  margin-left: 20px;
+}
+.product-desc .choose-form .option .form-label {
+  color: #6c6e71;
+}
+.product-desc .choose-form .option .form-label {
+  text-transform: uppercase;
+  margin: 0 0 12px;
+  font: 500 16px / 1 "Poppins", sans-serif;
+}
+.product-desc .bootstrap-touchspin {
+  width: 86px;
+}
+.input-group {
+  position: relative;
+  display: table;
+  border-collapse: separate;
+}
+.input-group-addon:first-child {
+  border-right: 0;
+}
+.product-desc .choose-form .bootstrap-touchspin input {
+  border-color: #e0e8ee;
+  background: 0 0;
+}
+.product-desc .bootstrap-touchspin input {
+  width: 48px;
+  box-shadow: none;
+  height: 42px;
+  padding: 0;
+  text-align: center;
+  border-right: 0;
+}
+.input-group-addon {
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1;
+  color: #555;
+  text-align: center;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.product-desc .bootstrap-touchspin {
+  width: 86px;
+}
+.input-group {
+  position: relative;
+  display: table;
+  border-collapse: separate;
+}
+.product-desc .choose-form .option+.option {
+  margin-left: 20px;
+}
+.product-desc .choose-form .option {
+  float: left;
+}
+.product-desc .choose-form .option .form-label {
+  color: #6c6e71;
+}
+.product-desc .choose-form .option .form-label {
+  text-transform: uppercase;
+  margin: 0 0 12px;
+  font: 500 16px / 1 "Poppins", sans-serif;
+}
+.product-desc .choose-form .choose-options {
+  border-color: #eee;
+}
+.product-desc .choose-form .choose-options {
+  padding: 34px 0 36px;
+  border-bottom: 1px solid;
+}
+.product-desc .choose-form .option {
+  float: left;
+}
+.product-desc .choose-form .option .form-label {
+  color: #6c6e71;
+}
+.product-desc .choose-form .option .form-label {
+  text-transform: uppercase;
+  margin: 0 0 12px;
+  font: 500 16px / 1 "Poppins", sans-serif;
+}
+.product-desc .choose-form .option .form-label {
+  text-transform: uppercase;
+  margin: 0 0 12px;
+  font: 500 16px / 1 "Poppins", sans-serif;
+}
+.product-desc .choose-form .option input[name=color], .product-desc .choose-form .option input[name=os0] {
+  display: none;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-1], .product-desc .choose-form .option input[name=os0]+label[for=color-1] {
+  background: #2eafff;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-1], .product-desc .choose-form .option input[name=os0]+label[for=color-1] {
+  margin-left: 4px;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-1], .product-desc .choose-form .option input[name=os0]+label[for=color-1] {
+  margin-left: 4px;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-2], .product-desc .choose-form .option input[name=os0]+label[for=color-2] {
+  background: #5c2eff;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-2], .product-desc .choose-form .option input[name=os0]+label[for=color-2] {
+  background: #5c2eff;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-3], .product-desc .choose-form .option input[name=os0]+label[for=color-3] {
+  background: #ff2e99;
+}
+.product-desc .choose-form .option input[name=color]+label, .product-desc .choose-form .option input[name=os0]+label {
+  width: 27px;
+  height: 27px;
+  border-radius: 100%;
+  position: relative;
+  margin-right: 6px;
+  margin-bottom: 0;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-4]:before, .product-desc .choose-form .option input[name=os0]+label[for=color-4]:before {
+  border-color: #ffe62e;
+}
+.product-desc .choose-form .option input[name=color]+label:before, .product-desc .choose-form .option input[name=os0]+label:before {
+  content: '';
+  width: 39px;
+  height: 39px;
+  display: block;
+  position: absolute;
+  top: -6px;
+  left: -6px;
+  border: 0 solid;
+  border-radius: 100%;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-4]:before, .product-desc .choose-form .option input[name=os0]+label[for=color-4]:before {
+  border-color: #ffe62e;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-4], .product-desc .choose-form .option input[name=os0]+label[for=color-4] {
+  background: #ffe62e;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-5]:before, .product-desc .choose-form .option input[name=os0]+label[for=color-5]:before {
+  border-color: #2effa1;
+}
+.product-desc .choose-form .option input[name=color]+label:before, .product-desc .choose-form .option input[name=os0]+label:before {
+  content: '';
+  width: 39px;
+  height: 39px;
+  display: block;
+  position: absolute;
+  top: -6px;
+  left: -6px;
+  border: 0 solid;
+  border-radius: 100%;
+}
+.product-desc .choose-form .option input[name=color]+label[for=color-5], .product-desc .choose-form .option input[name=os0]+label[for=color-5] {
+  background: #2effa1;
+}
+.product-desc .choose-form .option+.option {
+  margin-left: 20px;
+}
+.product-desc .choose-form .option {
+  float: left;
+}
+.product-desc .choose-form .option .form-label {
+  color: #6c6e71;
+}
+.product-desc .choose-form .option .form-label {
+  text-transform: uppercase;
+  margin: 0 0 12px;
+  font: 500 16px / 1 "Poppins", sans-serif;
+}
+.product-desc .bootstrap-touchspin {
+  width: 86px;
+}
+.input-group {
+  position: relative;
+  display: table;
+  border-collapse: separate;
+}
+.input-group-addon:first-child {
+  border-right: 0;
+}
+.bootstrap-touchspin .input-group-btn-vertical {
+  position: relative;
+  white-space: nowrap;
+  width: 1%;
+  vertical-align: middle;
+  display: table-cell;
+}
+.product-desc .choose-form .bootstrap-touchspin button {
+  border-color: #e0e8ee;
+}
+.product-desc .bootstrap-touchspin .input-group-btn-vertical button {
+  border-radius: 0;
+  width: 38px;
+  text-align: center;
+  padding: 0;
+  margin-left: 0;
+}
+.product-desc .choose-form .bootstrap-touchspin button {
+  border-color: #e0e8ee;
+}
+.product-desc .bootstrap-touchspin .input-group-btn-vertical button {
+  border-radius: 0;
+  width: 38px;
+  text-align: center;
+  padding: 0;
+  margin-left: 0;
+}
+#product-imgs {
+  padding: 65px 0 68px;
+  height: 100%;
+}
+.mfp-container:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}

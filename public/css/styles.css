@@ -1,5 +1,4 @@
-﻿
-#preloader {
+﻿#preloader {
   position: fixed;
   top: 0;
   right: 0;
@@ -117,7 +116,7 @@ h3 .title:hover {
   color: black;
 }
 h3 .title {
-  color: black!important;
+  color: black !important;
 }
 h3 a:active {
   color: #1388d7;
@@ -5756,4 +5755,9 @@ footer li {
   background: #1388d7;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   z-index: 9999;
+}
+
+.content-n {
+  font-size: 50px;
+  color: blue;
 }
