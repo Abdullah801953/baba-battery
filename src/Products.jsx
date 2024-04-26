@@ -1,6 +1,5 @@
 import React from "react";
 import ProductItems from "./ProductItems";
-import '../public/css/styles.css'
 function Products() {
   return (
     <section className="row our-collection pt-10">

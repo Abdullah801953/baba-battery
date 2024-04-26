@@ -10,7 +10,7 @@ function ProductItems() {
             style={{ visibility: "visible", animationName: "fadeIn" }}
           >
             <div className="row m0 featured-img">
-              <img src="src/img/items/collection-4.jpg" alt="" />
+              <img src="items/collection-4.jpg" alt="" />
             </div>
             <h4 className="title">Watch Limited Edition</h4>
             <h5 className="category">Stainless steel case</h5>
@@ -29,7 +29,7 @@ function ProductItems() {
             }}
           >
             <div className="row m0 featured-img">
-              <img src="src/img/items/collection-1.jpg" alt="" />
+              <img src="items/collection-1.jpg" alt="" />
             </div>
             <h4 className="title">Watch Bracelet</h4>
             <h5 className="category">White strap &amp; Stainless steel</h5>
@@ -48,7 +48,7 @@ function ProductItems() {
             }}
           >
             <div className="row m0 featured-img">
-              <img src="src/img/items/collection-2.jpg" alt="" />
+              <img src="items/collection-2.jpg" alt="" />
             </div>
             <h4 className="title">Watch Original</h4>
             <h5 className="category">The FirstWatch ever released</h5>
@@ -67,7 +67,7 @@ function ProductItems() {
             }}
           >
             <div className="row m0 featured-img">
-              <img src="src/img/items/collection-3.jpg" alt="" />
+              <img src="items/collection-3.jpg" alt="" />
             </div>
             <h4 className="title">Watch Soprts Edition</h4>
             <h5 className="category">Water proof and Fitness tracking</h5>

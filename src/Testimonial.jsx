@@ -8,7 +8,7 @@ function Testimonial() {
         data-overlay-dark="5"
         data-background="img/bg/bg-04.jpg"
        
-        style={{ backgroundImage: `url(${'/src/img/bg/bg-04.jpg'})`}}
+        style={{ backgroundImage: `url(${'bg/bg-04.jpg'})`}}
 
       >
         <div className="container">
@@ -51,21 +51,21 @@ function Testimonial() {
               >
                 <button className="owl-thumb-item rounded-circle w-60px me-2">
                   <img
-                    src="/src/img/avatars/avatar-01.jpg"
+                    src="avatars/avatar-01.jpg"
                     className="rounded-circle"
                     alt="..."
                   />
                 </button>
                 <button className="owl-thumb-item rounded-circle w-60px me-2">
                   <img
-                    src="/src/img/avatars/avatar-02.jpg"
+                    src="avatars/avatar-02.jpg"
                     className="rounded-circle"
                     alt="..."
                   />
                 </button>
                 <button className="owl-thumb-item rounded-circle w-60px me-2">
                   <img
-                    src="/src/img/avatars/avatar-03.jpg"
+                    src="avatars/avatar-03.jpg"
                     className="rounded-circle"
                     alt="..."
                   />
@@ -75,21 +75,21 @@ function Testimonial() {
           </div>
           <div className="position-absolute left-15 top-10 d-none d-lg-block">
             <img
-              src="/src/img/avatars/avatar-11.png"
+              src="avatars/avatar-11.png"
               className="rounded-circle"
               alt="..."
             />
           </div>
           <div className="position-absolute right top-20 d-none d-lg-block">
             <img
-              src="/src/img/avatars/avatar-09.png"
+              src="avatars/avatar-09.png"
               className="rounded-circle"
               alt="..."
             />
           </div>
           <div className="position-absolute left bottom-15 d-none d-lg-block">
             <img
-              src="/src/img/avatars/avatar-10.png"
+              src="avatars/avatar-10.png"
               className="rounded-circle"
               alt="..."
             />

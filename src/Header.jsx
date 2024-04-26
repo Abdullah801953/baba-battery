@@ -19,12 +19,12 @@ function Header() {
 
       if (scrollTop <= 175) {
         $("header").removeClass("scrollHeader").addClass("fixedHeader");
-        defaultLogo.attr("src", "/src/img/logos/logo-inner.png");
+        defaultLogo.attr("src", "logos/logo-inner.png");
       } else {
         $("header").removeClass("fixedHeader").addClass("scrollHeader");
-        defaultLogo.attr("src", "/src/img/logos/logo.png");
+        defaultLogo.attr("src", "logos/logo.png");
       }
-      scrollLogo.attr("src", "/src/img/logos/logo.png");
+      scrollLogo.attr("src", "logos/logo.png");
     };
 
     $(window).on("scroll", handleScroll);
@@ -77,7 +77,7 @@ function Header() {
                   <nav className="navbar navbar-expand-lg navbar-light p-0">
                     <div className="navbar-header navbar-header-custom">
                       <Link to={"/"} className="navbar-brand">
-                        <img id="logo" src="src/img/logos/logo.png" alt="logo" />
+                        <img id="logo" src="logos/logo.png" alt="logo" />
                       </Link>
                     </div>
 

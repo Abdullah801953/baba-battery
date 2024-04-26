@@ -18,12 +18,12 @@ function OurProjects() {
             <div
               className="col-sm-6 col-lg-3 mt-1-9 wow fadeIn"
               data-wow-delay="150ms"
-              data-src="img/portfolio/portfolio-grid-01.jpg"
+              data-src="portfolio/portfolio-grid-01.jpg"
               data-sub-html="<h4 class='text-white'>Hybrid Project</h4><p>Solar Power </p>"
             >
               <div className="card card-style3 border-0 rounded-0">
                 <img
-                  src="/src/img/portfolio/portfolio-grid-01.jpg"
+                  src="portfolio/portfolio-grid-01.jpg"
                   alt="Project-Image-01"
                 />
                 <div className="card-body">
@@ -51,12 +51,12 @@ function OurProjects() {
             <div
               className="col-sm-6 col-lg-3 mt-1-9 wow fadeIn"
               data-wow-delay="150ms"
-              data-src="img/portfolio/portfolio-grid-01.jpg"
+              data-src="portfolio-grid-01.jpg"
               data-sub-html="<h4 class='text-white'>Hybrid Project</h4><p>Solar Power </p>"
             >
               <div className="card card-style3 border-0 rounded-0">
                 <img
-                  src="/src/img/portfolio/portfolio-grid-02.jpg"
+                  src="portfolio/portfolio-grid-02.jpg"
                   alt="Project-Image-01"
                 />
                 <div className="card-body">
@@ -84,12 +84,12 @@ function OurProjects() {
             <div
               className="col-sm-6 col-lg-3 mt-1-9 wow fadeIn"
               data-wow-delay="150ms"
-              data-src="/src/img/portfolio/portfolio-grid-03.jpg"
+              data-src="portfolio/portfolio-grid-03.jpg"
               data-sub-html="<h4 class='text-white'>Hybrid Project</h4><p>Solar Power </p>"
             >
               <div className="card card-style3 border-0 rounded-0">
                 <img
-                  src="/src/img/portfolio/portfolio-grid-01.jpg"
+                  src="portfolio/portfolio-grid-01.jpg"
                   alt="Project-Image-01"
                 />
                 <div className="card-body">
@@ -117,12 +117,12 @@ function OurProjects() {
             <div
               className="col-sm-6 col-lg-3 mt-1-9 wow fadeIn"
               data-wow-delay="150ms"
-              data-src="img/portfolio/portfolio-grid-01.jpg"
+              data-src="portfolio-grid-01.jpg"
               data-sub-html="<h4 class='text-white'>Hybrid Project</h4><p>Solar Power </p>"
             >
               <div className="card card-style3 border-0 rounded-0">
                 <img
-                  src="/src/img/portfolio/portfolio-grid-01.jpg"
+                  src="portfolio/portfolio-grid-01.jpg"
                   alt="Project-Image-01"
                 />
                 <div className="card-body">

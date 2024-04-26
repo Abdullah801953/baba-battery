@@ -22,7 +22,7 @@ function OurBlogs() {
               <article className="card card-style4 border-0 h-100">
                 <div className="blog-img position-relative overflow-hidden">
                   <img
-                    src="/src/img/blog/blog-01.jpg"
+                    src="blog/blog-01.jpg"
                     alt="All you need to know about solar energy."
                   />
                   <span className="category">
@@ -57,7 +57,7 @@ function OurBlogs() {
               <article className="card card-style4 border-0 h-100">
                 <div className="blog-img position-relative overflow-hidden">
                   <img
-                    src="/src/img/blog/blog-02.jpg"
+                    src="blog/blog-02.jpg"
                     alt="Five important things to observe in energy."
                   />
                   <span className="category">
@@ -92,7 +92,7 @@ function OurBlogs() {
               <article className="card card-style4 border-0 h-100">
                 <div className="blog-img position-relative overflow-hidden">
                   <img
-                    src="/src/img/blog/blog-03.jpg"
+                    src="blog/blog-03.jpg"
                     alt="Never underestimate the influence of energy."
                   />
                   <span className="category">

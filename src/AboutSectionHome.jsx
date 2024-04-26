@@ -7,7 +7,7 @@ function AboutSectionHome() {
         <div className="row align-items-xxl-center">
           <div className="col-lg-6">
             <div className="about-image position-relative mb-2-9 mb-lg-0">
-              <img src="/src/img/content/about1.jpg" alt="..." />
+              <img src="content/about1.jpg" alt="..." />
 
               <div className="about-shape3"></div>
               <div className="about-shape4"></div>

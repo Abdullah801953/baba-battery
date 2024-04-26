@@ -23,13 +23,13 @@ function ProductsChoose() {
           </ol>
           <div className="carousel-inner" role="listbox">
             <div className="item">
-              <img src="src/img/items/the-watch-3.png" alt="watch-1" />
+              <img src="items/the-watch-3.png" alt="watch-1" />
             </div>
             <div className="item active">
-              <img src="src/img/items/the-watch-3.png" alt="watch-2" />
+              <img src="items/the-watch-3.png" alt="watch-2" />
             </div>
             <div className="item">
-              <img src="src/img/items/the-watch-3.png" alt="watch-3" />
+              <img src="items/the-watch-3.png" alt="watch-3" />
             </div>
           </div>
         </div>

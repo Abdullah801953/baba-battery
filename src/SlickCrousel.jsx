@@ -35,7 +35,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery1.png" alt="" />
+                                                    <img className="first-img" src="service/battery1.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -76,7 +76,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery2.png" alt="" />
+                                                    <img className="first-img" src="service/battery2.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -117,7 +117,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery1.png" alt="" />
+                                                    <img className="first-img" src="service/battery1.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -158,7 +158,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery2.png" alt="" />
+                                                    <img className="first-img" src="service/battery2.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -198,7 +198,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery2.png" alt="" />
+                                                    <img className="first-img" src="service/battery2.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -239,7 +239,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery1.png" alt="" />
+                                                    <img className="first-img" src="service/battery1.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -279,7 +279,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery1.png" alt="" />
+                                                    <img className="first-img" src="service/battery1.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -320,7 +320,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery2.png" alt="" />
+                                                    <img className="first-img" src="service/battery2.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -361,7 +361,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery1.png" alt="" />
+                                                    <img className="first-img" src="service/battery1.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
@@ -402,7 +402,7 @@ function SlickCrousel() {
                                         <div className="bg-blue-500">
                                             <div className="product-img">
                                                 <a href="#">
-                                                    <img className="first-img" src="src/img/service/battery2.png" alt="" />
+                                                    <img className="first-img" src="service/battery2.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>

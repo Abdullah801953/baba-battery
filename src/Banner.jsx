@@ -1,13 +1,7 @@
-import jquery from "jquery";
-import ReactDOM from "react-dom";
-import ReactWOW from "react-wow";
+
 import React, { useEffect } from "react";
-import "animate.css/animate.min.css";
-import OwlCarousel from 'react-owl-carousel';
-import 'owl.carousel/dist/assets/owl.carousel.css';
-import 'owl.carousel/dist/assets/owl.theme.default.css';
-import '../public/css/styles.css'
-import '../public/css/plugins.css'
+// import 'css/styles.css'
+// import 'css/plugins.css'
 function Banner() {
   useEffect(() => {
     // Carousel change event ko handle karne ke liye function
@@ -137,7 +131,7 @@ function Banner() {
             data-overlay-dark="55"
             // data-background="img/banner/slide-02.jpg"
             style={{
-              backgroundImage: `url(${"src/img/banner/battery-slide1.jpg"})`,
+              backgroundImage: `url(${"banner/battery-slide1.jpg"})`,
             }}
           >
             <div className="container h-100">
@@ -173,7 +167,7 @@ function Banner() {
             data-overlay-dark="55"
             // data-background="img/banner/slide-02.jpg"
             style={{
-              backgroundImage: `url(${"src/img/banner/battery-slide2.jpg"})`,
+              backgroundImage: `url(${"banner/battery-slide2.jpg"})`,
             }}
           >
             <div className="container h-100">
@@ -206,7 +200,7 @@ function Banner() {
             data-overlay-dark="55"
             // data-background="img/banner/slide-03.jpg"
             style={{
-              backgroundImage: `url(${"src/img/banner/battery-slide3.jpg"})`,
+              backgroundImage: `url(${"banner/battery-slide3.jpg"})`,
             }}
           >
             <div className="container h-100">

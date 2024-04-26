@@ -21,13 +21,11 @@ import Client from './Client';
 import OurTeam from './OurTeam';
 import Testimonial from './Testimonial';
 import OurBlogs from './OurBlogs';
-import Footer from './Footer';
 import Cursor from './Cursor';
 import ContactSectionFirst from './ContactSectionFirst';
 import AboutSectionHome from './AboutSectionHome';
 import ProductsSection from './ProductsSection';
 import FooterNew from './FooterNew';
-import SlickCrousel from './SlickCrousel';
 function App() {
   
   return (
@@ -44,7 +42,6 @@ function App() {
       <OurBlogs />
       <FooterNew />
       <Cursor/>
-      {/* <PageLoading/> */}
     </div>
   )
 }

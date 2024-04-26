@@ -10,7 +10,7 @@ function FooterNew() {
                         <div className="row gy-4 justify-content-between">
                             <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.3s" style={{ visibility: 'visible', animationDuration: '0.5s', animationDelay: '0.3s', animationName: 'fadeInUp' }}>
                                 <a href="index.html">
-                                    <img src="/src/img/icons/footer-logo.png" alt="image" className="footer-logo" />
+                                    <img src="icons/footer-logo.png" alt="image" className="footer-logo" />
                                 </a>
                                 <p className="text-light text-start">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots</p>
                                 <ul className="footer-info-list">
@@ -102,7 +102,7 @@ function FooterNew() {
                             </div>
                         </div>
                     </div>
-                    <img src="/src/img/icons/footer-line.png" alt="image" className="footer-top-line" />
+                    <img src="icons/footer-line.png" alt="image" className="footer-top-line" />
                 </div>
                 <div className="footer-bottom overflow-hidden">
                     <div className="container">
