@@ -48,9 +48,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -89,9 +87,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -130,9 +126,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -171,9 +165,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -211,9 +203,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -252,9 +242,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -292,9 +280,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -333,9 +319,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -374,9 +358,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
@@ -415,9 +397,7 @@ function SlickCrousel() {
                                             <h3 className="product-name">
                                                 <a href="#">Product Title</a>
                                             </h3>
-                                            <div className="price-box">
-                                                <span className="new-price">$200.00</span>
-                                            </div>
+                                           
                                             <div className="pro-rating no-rating">
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>
                                                 <a href="#"><i className="fa-regular fa-star"></i></a>

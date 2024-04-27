@@ -6,7 +6,7 @@ function Testimonial() {
       <section
         className="parallax bg-img cover-background"
         data-overlay-dark="5"
-        data-background="img/bg/bg-04.jpg"
+        data-background="bg/bg-04.jpg"
        
         style={{ backgroundImage: `url(${'bg/bg-04.jpg'})`}}
 

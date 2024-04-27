@@ -1,7 +1,11 @@
 import React from "react";
 import ProductItems from "./ProductItems";
+import Header from "./Header"
+import FooterNew from "./FooterNew";
 function Products() {
   return (
+    <>
+    <Header/>
     <section className="row our-collection pt-10">
       <div className="container">
         <div
@@ -21,10 +25,12 @@ function Products() {
         </div>
         <ProductItems />
         <ProductItems />
-        <ProductItems />
-        <ProductItems />
+        {/* <ProductItems />
+        <ProductItems /> */}
       </div>
     </section>
+    <FooterNew/>
+    </>
   );
 }
 

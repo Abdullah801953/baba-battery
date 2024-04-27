@@ -21,7 +21,7 @@ function OurTeam() {
             >
               <div className="team-style">
                 <div className="team-style-01">
-                  <img src="src/img/team/team-01.jpg" alt="Image" />
+                  <img src="team/team-01.jpg" alt="Image" />
                   <div className="team-social">
                     <div className="side-icons">
                       <div className="icon-share">
@@ -69,7 +69,7 @@ function OurTeam() {
             >
               <div className="team-style">
                 <div className="team-style-01">
-                  <img src="src/img/team/team-02.jpg" alt="Image" />
+                  <img src="team/team-02.jpg" alt="Image" />
                   <div className="team-social">
                     <div className="side-icons">
                       <div className="icon-share">
@@ -117,7 +117,7 @@ function OurTeam() {
             >
               <div className="team-style">
                 <div className="team-style-01">
-                  <img src="src/img/team/team-03.jpg" alt="Image" />
+                  <img src="team/team-03.jpg" alt="Image" />
                   <div className="team-social">
                     <div className="side-icons">
                       <div className="icon-share">
@@ -165,7 +165,7 @@ function OurTeam() {
             >
               <div className="team-style">
                 <div className="team-style-01">
-                  <img src="src/img/team/team-04.jpg" alt="Image" />
+                  <img src="team/team-04.jpg" alt="Image" />
                   <div className="team-social">
                     <div className="side-icons">
                       <div className="icon-share">

@@ -39,7 +39,7 @@ function SaveMoneySection() {
                     </div>
                     <div className="col-lg-7 mt-5">
                         <div className="video-img position-relative">
-                            <img src="/src/img/content/04.jpg" className="border-radius-5" alt="..." />
+                            <img src="content/04.jpg" className="border-radius-5" alt="..." />
                             <div className="story-video position-absolute align-items-center left-5 bottom-10 d-flex">
                                 <a className="video video_btn small" href="https://www.youtube.com/watch?v=JtvGljl_21g"><i className="fas fa-play"></i></a>
                                 <p className="text-white mb-0 ms-2-3 fw-bold">Watch Our<br /> Video</p>

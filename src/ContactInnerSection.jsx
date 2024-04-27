@@ -7,7 +7,7 @@ function ContactInnerSection() {
       <div className="row">
         <div className="col-lg-6">
           <div className="about-5 position-relative mb-1-9 mb-lg-0 pe-lg-6">
-            <img src="/src/img/content/contact-04.jpg" alt="..." />
+            <img src="content/contact-04.jpg" alt="..." />
             <div className="about-shape3"></div>
             <div className="about-shape4"></div>
           </div>
@@ -70,7 +70,7 @@ function ContactInnerSection() {
                     <div className="form-group">
                       <div className="quform-captcha">
                         <div className="quform-captcha-inner">
-                          <img src="/src/quform/images/captcha/courier-new-light.png" alt="..." />
+                          <img src="quform/images/captcha/courier-new-light.png" alt="..." />
                         </div>
                       </div>
                     </div>

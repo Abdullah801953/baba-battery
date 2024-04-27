@@ -11,19 +11,19 @@ function OurProjects() {
           >
             <span>Our Projects</span>
             <h2 className="h1 mb-0 z-index-2 position-relative">
-              Spectacular Our Latest Projects
+              Manufacturing of All Types of Batteries
             </h2>
           </div>
           <div className="portfolio-style1 row portfolio-gallery mt-n1-9 px-xl-17">
             <div
-              className="col-sm-6 col-lg-3 mt-1-9 wow fadeIn"
+              className="col-sm-6 col-lg-4 mt-1-9 wow fadeIn"
               data-wow-delay="150ms"
-              data-src="portfolio/portfolio-grid-01.jpg"
+              data-src="portfolio/lead-ingoit.webp"
               data-sub-html="<h4 class='text-white'>Hybrid Project</h4><p>Solar Power </p>"
             >
               <div className="card card-style3 border-0 rounded-0">
                 <img
-                  src="portfolio/portfolio-grid-01.jpg"
+                  src="portfolio/lead-ingoit.webp"
                   alt="Project-Image-01"
                 />
                 <div className="card-body">
@@ -38,10 +38,10 @@ function OurProjects() {
                     </div>
                   </div>
                   <div className="portfolio-content">
-                    <span className="text-white">Solar Power </span>
+
                     <h3 className="h4">
                       <a href="portfolio-details.html" className="text-white">
-                        Hybrid Project
+                        Manufacture of Lead Ingots
                       </a>
                     </h3>
                   </div>
@@ -49,15 +49,16 @@ function OurProjects() {
               </div>
             </div>
             <div
-              className="col-sm-6 col-lg-3 mt-1-9 wow fadeIn"
+              className="col-sm-6 col-lg-4 mt-1-9 wow fadeIn"
               data-wow-delay="150ms"
               data-src="portfolio-grid-01.jpg"
               data-sub-html="<h4 class='text-white'>Hybrid Project</h4><p>Solar Power </p>"
             >
               <div className="card card-style3 border-0 rounded-0">
                 <img
-                  src="portfolio/portfolio-grid-02.jpg"
+                  src="portfolio/gray oxide.webp"
                   alt="Project-Image-01"
+                  style={{ border: '1px solid #e9e0e0' }}
                 />
                 <div className="card-body">
                   <div className="portfolio-icon">
@@ -71,59 +72,30 @@ function OurProjects() {
                     </div>
                   </div>
                   <div className="portfolio-content">
-                    <span className="text-white">Solar Power </span>
+
                     <h3 className="h4">
                       <a href="portfolio-details.html" className="text-white">
-                        Hybrid Project
+                        Manufacture of Grey Oxide
                       </a>
                     </h3>
                   </div>
                 </div>
               </div>
             </div>
+
+
+
             <div
-              className="col-sm-6 col-lg-3 mt-1-9 wow fadeIn"
-              data-wow-delay="150ms"
-              data-src="portfolio/portfolio-grid-03.jpg"
-              data-sub-html="<h4 class='text-white'>Hybrid Project</h4><p>Solar Power </p>"
-            >
-              <div className="card card-style3 border-0 rounded-0">
-                <img
-                  src="portfolio/portfolio-grid-01.jpg"
-                  alt="Project-Image-01"
-                />
-                <div className="card-body">
-                  <div className="portfolio-icon">
-                    <div className="top-icon">
-                      <a
-                        href="portfolio-details.html"
-                        className="portfolio-link"
-                      >
-                        <i className="fa fa-plus"></i>
-                      </a>
-                    </div>
-                  </div>
-                  <div className="portfolio-content">
-                    <span className="text-white">Solar Power </span>
-                    <h3 className="h4">
-                      <a href="portfolio-details.html" className="text-white">
-                        Hybrid Project
-                      </a>
-                    </h3>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              className="col-sm-6 col-lg-3 mt-1-9 wow fadeIn"
+              className="col-sm-6 col-lg-4 mt-1-9 wow fadeIn"
               data-wow-delay="150ms"
               data-src="portfolio-grid-01.jpg"
               data-sub-html="<h4 class='text-white'>Hybrid Project</h4><p>Solar Power </p>"
             >
               <div className="card card-style3 border-0 rounded-0">
                 <img
-                  src="portfolio/portfolio-grid-01.jpg"
+                  src="portfolio/selinum lead.png"
                   alt="Project-Image-01"
+                  style={{ border: '1px solid #e9e0e0' }}
                 />
                 <div className="card-body">
                   <div className="portfolio-icon">
@@ -137,10 +109,10 @@ function OurProjects() {
                     </div>
                   </div>
                   <div className="portfolio-content">
-                    <span className="text-white">Solar Power </span>
+
                     <h3 className="h4">
                       <a href="portfolio-details.html" className="text-white">
-                        Hybrid Project
+                      Manufacture of Pure Lead, Selinium Lead etc.
                       </a>
                     </h3>
                   </div>
